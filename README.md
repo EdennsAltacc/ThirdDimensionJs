@@ -1,2 +1,2 @@
 <img src="readme/bannerthing.png">
-# ThreeDimensionJS
+<font size="6">Third Dimension JS</font>
