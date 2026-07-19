@@ -1,2 +1,2 @@
-<img src="readme/banner.png">
+<img src="readme/bannerthing.png">
 # ThreeDimensionJS
